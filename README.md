@@ -1,2 +1,2 @@
 # Proyectos_OOP
-Proyectos sobre la Programación orientada a objetos
+Proyectos sobre la Programación orientada a objetos with C++
