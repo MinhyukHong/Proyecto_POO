@@ -24,11 +24,6 @@ Este código está escrito en Haskell, por lo que necesitarás un entorno de Has
 ## Ejemplo de ejecución
 ![WhatsApp Image 2023-11-13 at 9 43 00 PM](https://github.com/0721santi/2ndProjectProgrammingLanguages/assets/108979014/4eb4c781-a902-441c-86da-55739f958a34)
 
-## Explicación del código
-Si necesita una explicación sobre el código, pueden consultar el siguiente enlace.
-<br>
-https://youtu.be/yegnf7GIk-M
-
 ## Contacto
 
 Si tiene alguna pregunta o consulta, póngase en contacto con
