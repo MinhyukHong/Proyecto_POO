@@ -1,0 +1,1 @@
+g++ -o main.exe ./main.cpp ./includes/Persona.cpp ./includes/Game.cpp ./includes/DataStructure/Dato.cpp ./includes/DataStructure/LinkedList.cpp ./includes/DataStructure/Nodo.cpp
