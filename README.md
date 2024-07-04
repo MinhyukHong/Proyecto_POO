@@ -1,2 +1,2 @@
 # Proyectos_OOP
-Proyectos sobre la Programación orientada a objetos with C++, y Haskell.
+Proyectos de la Programación orientada a objetos con C++, y Haskell.
